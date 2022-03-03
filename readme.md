@@ -1,4 +1,4 @@
-# Machine learning Predicts the onset of diabetic complications from a snapshot of electronic health records 
+# Machine learning predicts the onset of diabetic complications from a snapshot of electronic health records 
 
 
 Link to preprint: [add link here](medrxiv.org)
